@@ -2,6 +2,6 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <div>fdafdsfadsfasdfsdfasfadfadfdsaf</div>
+    <div>w45345345345345345345345</div>
   );
 }
